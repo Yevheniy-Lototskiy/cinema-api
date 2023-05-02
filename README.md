@@ -39,6 +39,6 @@ When it is done, run next commands:
 
 ### Screenshots
 As you can see, here is allowed endpoints for cinema:
-![cinema allowed endpoints](media/screenshots/cinema_allowed_endpoints.png)
+![cinema allowed endpoints](screenshots/cinema_allowed_endpoints.png)
 And allowed endpoints for user:
-![users allowed endpoints](media/screenshots/users_allowed_endpoints.png)
+![users allowed endpoints](screenshots/users_allowed_endpoints.png)
