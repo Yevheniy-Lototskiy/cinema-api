@@ -1,9 +1,6 @@
 # Cinema API
-Service for cinema management written on DRF and used docker.  
-As you can see, here is allowed endpoints for cinema:
-![cinema allowed endpoints](https://monosnap.com/file/IHwkRo1dReC6bMMGdRR88NfhM4m0Qb)
-And allowed endpoints for user:
-![users allowed endpoints](https://monosnap.com/file/L4yFgddMhcDSLzA0ERz5r2AxrxMtEY)
+Service for cinema management written on DRF and used docker.
+
 ### Installation
 Before installing the project, you need to install the PostgreSQL and create a database in it.
 You also need to install the Docker to be able to use it.  
@@ -39,3 +36,9 @@ When it is done, run next commands:
 - Creating cinema halls
 - Adding movie sessions
 - Filtering movies and movie sessions
+
+### Screenshots
+As you can see, here is allowed endpoints for cinema:
+![cinema allowed endpoints](media/screenshots/cinema_allowed_endpoints.png)
+And allowed endpoints for user:
+![users allowed endpoints](media/screenshots/users_allowed_endpoints.png)
